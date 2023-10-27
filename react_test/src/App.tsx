@@ -4,7 +4,7 @@ function App() {
 
   return (
     <>
-    <div> WELCOME TO GIT</div>
+    <div> WELCOME TO GIT PUSH 1</div>
     </>
   )
 }
